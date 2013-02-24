@@ -1,0 +1,16 @@
+{
+  "name": "node-pgp-mail",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdauth/node-pgp-postgres.git"
+  },
+  "license": "MIT",
+  "description": "Library to send encrypted and signed e-mails.",
+  "dependencies": {
+	  "node-pgp": "git://github.com/cdauth/node-pgp.git",
+	  "async": "x.x.x",
+	  "nodemailer" : "x.x.x",
+      "mimelib" : "x.x.x"
+  }
+}
