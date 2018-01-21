@@ -8,9 +8,10 @@
   "license": "MIT",
   "description": "Library to send PGP-encrypted and signed e-mails.",
   "dependencies": {
-	  "node-pgp": "0.0.x",
-	  "async": "0.2.x",
-	  "nodemailer" : "0.4.x",
-      "mimelib" : "0.2.x"
+    "async": "0.2.x",
+    "mailcomposer": "0.1.x",
+    "mimelib": "0.2.x",
+    "node-pgp": "0.0.x",
+    "nodemailer": "0.4.x"
   }
 }
