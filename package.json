@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdauth/node-pgp-postgres.git"
+    "url": "https://github.com/gnewpg/node-pgp-postgres.git"
   },
   "license": "MIT",
   "description": "Library to send PGP-encrypted and signed e-mails.",
